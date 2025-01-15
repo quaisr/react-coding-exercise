@@ -64,7 +64,7 @@ If you have spare time, you can **extend** the comment UI with a “Reply” but
    When clicked, show an inline input area and \"Submit\" button.
 
 3. **Send and refetch the data**
-   Post a new comment object with `parentCommentId = comment.id`. Trigger a refetch the comments.
+   Post a new comment object with `parentCommentId = comment.id`. Trigger a refetch of the comments.
 
 ### Sorting
 
